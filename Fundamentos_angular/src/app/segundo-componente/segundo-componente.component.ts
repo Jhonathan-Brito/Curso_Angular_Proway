@@ -9,7 +9,7 @@ export class SegundoComponenteComponent {
 
   nome = "João";
   dataNascimento = "1990-05-01";
-  urlImagem = "/assets/versão.png";
+  urlImagem = "/assets/angular.png";
 
   mostrarDataNascimento() {
     alert( `A data de nascimento do João é: ${this.dataNascimento}`)
